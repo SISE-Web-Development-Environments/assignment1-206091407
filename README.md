@@ -7,6 +7,7 @@ Readme "Lea Gorsia's website"
 INTRODUCTION
 --------------
 This is my first website, and it's about my grandmother, Lea Gorsia.
+
 To see the website enter this link : https://sise-web-development-environments.github.io/assignment1-206091407/
 
 OPERATIONS
